@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
                         Navigator.pushNamed(context, 'login');
                       },
                       child: Text(
-                        'Get Started!',
+                        'Join to us!',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 20,
